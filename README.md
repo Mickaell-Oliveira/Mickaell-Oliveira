@@ -1,39 +1,47 @@
-# Olá! Eu sou o Mickaell de Oliveira 👋
+<div align="center">
+  <a href="https://github.com/Mickaell-Oliveira">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2088FF&center=true&vCenter=true&width=800&height=100&lines=Ol%C3%A1!+Eu+sou+o+Mickaell+de+Oliveira+;Engenheiro+Computacional+;Especialista+em+IA+%26+Dados;Presidente+%40+Code+Jr." alt="Typing SVG" />
+  </a>
+</div>
 
-**Engenheiro Computacional | IA & Dados | Presidente @ Code Jr.**
+<div align="center">
+  <h3> Construindo arquiteturas escaláveis e operacionalizando modelos de IA. </h3>
+  <p> Unindo modelagem matemática de alta performance com visão estratégica de negócios. </p>
+</div>
 
-Sou um desenvolvedor focado na construção de arquiteturas de dados escaláveis e na operacionalização de modelos de Inteligência Artificial. Gosto de resolver problemas complexos unindo modelagem matemática, automação e desenvolvimento de software de alta performance.
+<br/>
 
-### 🚀 O que estou fazendo agora
-- 🎓 Cursando o 8º período de **Engenharia Computacional** na Universidade Federal de Juiz de Fora (UFJF).
-- 💼 Liderando a **Code Jr.**, estruturando projetos de tecnologia de ponta a ponta e bancos de dados para larga escala.
-- 🔬 Otimizando a resolução de equações de difusão para o simulador eletrofisiológico **MonoAlg3D** (Bolsista FAPEMIG).
-- 🧠 Construindo e aprimorando sistemas **RAG (Retrieval-Augmented Generation)** e automações com LLMs e agentes inteligentes.
+### 🎯 O Radar (O que estou fazendo agora)
 
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
+```yaml
+- 🎓 Graduação: 8º período de Engenharia Computacional (UFJF)
+- 🏢 Liderança: Presidente da Code Jr. (Gestão de parcerias, contratos e dados em larga escala)
+- 🔬 Pesquisa: Otimização de simulações cardíacas no MonoAlg3D (Bolsista FAPEMIG)
+- 🧠 Foco Técnico: Arquiteturas RAG, Agentes Autônomos e Integração de LLMs
+```
 
-### 📈 Minhas Estatísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mickaell-Oliveira&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mickaell-Oliveira&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
+<br/>
 
-### 📫 Como me encontrar
-<p align="left">
-  <a href="https://linkedin.com/in/mickaelloliveira">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+### ⚙️ Stack & Arsenal Tecnológico
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,php,js,mysql,postgres,aws,githubactions,git,linux&perline=10" />
+  </a>
+</div>
+
+<br/>
+
+### 📬 Conexões
+
+<div align="center">
+  <a href="https://linkedin.com/in/mickaelloliveira" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="mailto:mickaelldeoliveira@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-</p>
+</div>
+
+<br/>
+<br/>
