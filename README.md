@@ -51,9 +51,10 @@ Feel free to connect with me @Mickaell-Oliveira for all things tech or just to s
 
 <details>
   <summary><b>⚡ Github Stats</b></summary>
+
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mickaell-Oliveira&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mickaell-Oliveira&show_icons=true&hide_border=true&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mickaell-Oliveira&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mickaell-Oliveira&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
 </details>
 
 <details>
